@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10pmMiracleMVCBatch", "10pmMiracleMVCBatch.csproj", "{E31DDB2A-6148-4AC3-BB9A-0480075086C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10pmMiracleMVCBatch", "10pmMiracleMVCBatch.csproj", "{E31DDB2A-6148-4AC3-BB9A-0480075086C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10PmMvcbatch2", "..\10PmMvcbatch2\10PmMvcbatch2.csproj", "{913E7C73-76BE-4EEE-A21E-23F530A15A7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10PmMvcbatch2", "..\10PmMvcbatch2\10PmMvcbatch2.csproj", "{913E7C73-76BE-4EEE-A21E-23F530A15A7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10pmMvcbatch3", "..\10pmMvcbatch3\10pmMvcbatch3.csproj", "{447448D3-0A30-4FD6-84AC-40440B7B592F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10pmMvcbatch3", "..\10pmMvcbatch3\10pmMvcbatch3.csproj", "{447448D3-0A30-4FD6-84AC-40440B7B592F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleForWebApp", "..\ConsoleForWebApp\ConsoleForWebApp.csproj", "{61F48FCA-4D35-4A35-8FC2-9E03FCEEBBC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleForWebApp", "..\ConsoleForWebApp\ConsoleForWebApp.csproj", "{61F48FCA-4D35-4A35-8FC2-9E03FCEEBBC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSudarshan", "..\WebApiSudarshan\WebApiSudarshan.csproj", "{9AA3F9F0-66FC-489E-8BBE-EA24B232566C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{61F48FCA-4D35-4A35-8FC2-9E03FCEEBBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61F48FCA-4D35-4A35-8FC2-9E03FCEEBBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61F48FCA-4D35-4A35-8FC2-9E03FCEEBBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA3F9F0-66FC-489E-8BBE-EA24B232566C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA3F9F0-66FC-489E-8BBE-EA24B232566C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA3F9F0-66FC-489E-8BBE-EA24B232566C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA3F9F0-66FC-489E-8BBE-EA24B232566C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
